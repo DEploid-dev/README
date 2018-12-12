@@ -27,11 +27,12 @@ These data are repeated used in testing performance and benchmarking DEploid dev
   - pf6-deconvolution
 
 ## Paper materials
-  - dEploidPaper (for bioinfo DEploid)
-  - mixedIBD (for elife DEploid-IBD)
+  - dEploidPaper (*Bioinfomatics*)
+  - mixedIBD (*biorxiv*)
   - coming soon (for Unknown journal DEploid-LASSO and DEploid-BEST)
 
 ## Paper supplementary materials
   - DEploid-Supplementary-Materials
+  - mixedIBD-Supplement (https://github.com/mcveanlab/mixedIBD-Supplement)
   
 
